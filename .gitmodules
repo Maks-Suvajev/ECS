@@ -1,0 +1,9 @@
+[submodule "Component"]
+	path = Component
+	url = git@github.com:Maks-Suvajev/Component.git
+[submodule "Entity"]
+	path = Entity
+	url = git@github.com:Maks-Suvajev/Entity.git
+[submodule "Systems"]
+	path = Systems
+	url = git@github.com:Maks-Suvajev/Systems.git
